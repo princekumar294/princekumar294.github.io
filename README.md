@@ -1,1 +1,164 @@
 # princekumar294.github.io
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prince Kumar - Salesforce DevOps Engineer</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+
+    header {
+      text-align: center;
+      padding: 40px;
+      background-color: #3498db;
+      color: #ffffff;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    p {
+      margin: 10px 0 0 0;
+    }
+
+    section {
+      margin: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      padding: 20px;
+    }
+
+    h2 {
+      color: #3498db;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 12px;
+      padding: 8px;
+      border-radius: 6px;
+      transition: background-color 0.3s;
+      cursor: pointer;
+    }
+
+    li:hover {
+      background-color: #3498db;
+      color: #fff;
+    }
+
+    .experience-item {
+      margin-bottom: 20px;
+    }
+
+    .contact-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Prince Kumar</h1>
+    <p>Salesforce DevOps Engineer</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      As a seasoned Salesforce DevOps engineer with 5.6 years of dedicated experience, my role revolves around the
+      comprehensive management of Salesforce development and deployment processes. I actively contribute to the
+      customization and development of Salesforce solutions, tailoring them to meet the specific requirements of our
+      organization. A core aspect of my responsibilities lies in championing DevOps practices, emphasizing collaboration
+      and communication between development and operations teams. Central to my expertise is the creation of robust
+      Continuous Integration (CI) and Continuous Deployment (CD) pipelines, automating critical aspects of the
+      development lifecycle to ensure a seamless and efficient deployment process. Beyond pipeline creation, I play a
+      pivotal role in deployment management, focusing on version control, release strategies, and meticulous attention to
+      detail to prevent disruptions. Quality assurance is ingrained in my approach, with a focus on implementing rigorous
+      testing strategies, including unit testing and automated testing, to maintain the high standards of Salesforce
+      applications. Throughout my career, I have demonstrated a commitment to following established processes, ensuring
+      consistency, compliance, and overall efficiency. My problem-solving acumen has been instrumental in overcoming
+      challenges, contributing to the stability and reliability of Salesforce environments. Overall, my extensive
+      experience positions me as a valuable asset in driving successful Salesforce projects through effective
+      collaboration, automation, and a steadfast adherence to best practices.
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Salesforce CLI (Command-Line Interface)</li>
+      <li>Salesforce DX (Developer Experience)</li>
+      <li>Git (Version Control System)</li>
+      <li>Jenkins (Continuous Integration)</li>
+      <li>GitlabCI (Continuous Integration)</li>
+      <li>Github Action (Continuous Integration)</li>
+      <li>Azure DevOps</li>
+      <li>Copado (Release Management and Deployment Automation)</li>
+      <li>Gearset (Release Management)</li>
+      <li>Selenium (Test Automation)</li>
+      <li>Apex Test Framework (Salesforce Native Testing)</li>
+      <li>Splunk (Monitoring and Logging)</li>
+      <li>ELK Stack (Elasticsearch, Logstash, Kibana - Monitoring and Logging)</li>
+      <li>Slack (Collaboration)</li>
+      <li>Microsoft Teams (Collaboration)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p>Bachelor of Science in Computer Science<br> Rajiv Gandhi Proudyogiki Vishwavidyalaya Bhopal, Graduation Year: 2015</p>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <div class="experience-item">
+      <h3>Senior Associate</h3>
+      <p>Cognizant - Duration: Aug 2022 to Till now</p>
+      <p>Lead the implementation of DevOps practices, manage CI/CD pipelines, and contribute to the successful deployment
+        of Salesforce solutions.</p>
+    </div>
+    <div class="experience-item">
+      <h3>Senior Software Engineer</h3>
+      <p>Tech Mahindra - Duration: Nov 2020 to Aug 2022</p>
+      <p>Collaborated with cross-functional teams to customize and develop Salesforce solutions, ensuring alignment with
+        organizational requirements.</p>
+    </div>
+    <div class="experience-item">
+      <h3>Salesforce Developer</h3>
+      <p>Alten calsoft Labs - Duration: Jan 2017 to Jan 2020</p>
+      <p>Collaborated with cross-functional teams to customize and develop Salesforce solutions, ensuring alignment with
+        organizational requirements.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Contact Information</h2>
+    <div class="contact-info">
+      <p>Phone: +91-9606676464</p>
+      <p>Email: kumar.prince294@gmail.com</p>
+      <p>LinkedIn: linkedin.com/in/princekumar295</p>
+      <p>GitHub: github.com/princekumar294</p>
+    </div>
+  </section>
+
+</body>
+
+</html>
